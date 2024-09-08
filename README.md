@@ -7,8 +7,6 @@ Descripción breve del proyecto.
 . \
 ├── app \
 │   ├── api \
-│   │   ├── adapters \
-│   │   │   └── README.md  # Adapters explanation for external services. \
 │   │   ├── auth \
 │   │   │   └── auth.py  # Authentication related operations. \
 │   │   ├── config \
